@@ -8,15 +8,14 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 | --- | --- | --- | --- |
 | <a href=""><img src="fdroid/repo/icons/" alt="categories icon" width="36px" height="36px"></a> | [**categories**]() |  |  (2147483647) |
 | <a href="https://github.com/xarantolus/notality"><img src="fdroid/repo/icons/io.github.xarantolus.notality.10.png" alt="Notality icon" width="36px" height="36px"></a> | [**Notality**](https://github.com/xarantolus/notality) | A very simple note taking app for Android | 1.8.1 (10) |
-| <a href="https://github.com/xarantolus/rockit"><img src="fdroid/repo/icons/" alt="Rock It! icon" width="36px" height="36px"></a> | [**Rock It!**](https://github.com/xarantolus/rockit) | Rock It! is an Android app that helps you stay informed on all things space | 1.6.0 (23) |
 <!-- end apps table -->
 
 ### How to use
 1. At first, you should [install the F-Droid app](https://f-droid.org/), it's an alternative app store for Android.
-2. Now you can copy the following [link](https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo?fingerprint=080898ae4309aeceb58915e43a4b7c4a3e2cda40c91738e2c02f58339ab2fbd7), then add this repository to your F-Droid client:
+2. Now you can copy the following [link](https://raw.githubusercontent.com/DaneChainS/fdroid/main/fdroid/repo?fingerprint=ED94F4D3EC2978A2FC7170A07F25FDB3B32804298E2FF9FF00D9F), then add this repository to your F-Droid client:
 
     ```
-    https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo?fingerprint=080898ae4309aeceb58915e43a4b7c4a3e2cda40c91738e2c02f58339ab2fbd7
+     https://raw.githubusercontent.com/DaneChainS/fdroid/main/fdroid/repo?fingerprint=ED94F4D3EC2978A2FC7170A07F25FDB3B32804298E2FF9FF00D9F
     ```
 
     Alternatively, you can also scan this QR code:
@@ -29,9 +28,6 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 4. You can now install my apps, e.g. start by searching for "Notality" in the F-Droid client.
 
 Please note that some apps published here might contain [Anti-Features](https://f-droid.org/en/docs/Anti-Features/). If you can't find an app by searching for it, you can go to settings and enable "Include anti-feature apps".
-
-### For developers
-If you are a developer and want to publish your own apps right from GitHub Actions as an F-Droid repo, you can fork/copy this repo and see  [the documentation](setup.md) for more information on how to set it up.
 
 ### [License](LICENSE)
 The license is for the files in this repository, *except* those in the `fdroid` directory. These files *might* be licensed differently; you can use an F-Droid client to get the details for each app.
