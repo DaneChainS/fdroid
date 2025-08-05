@@ -24,6 +24,12 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
       <img src=".github/qrcode.png?raw=true" alt="F-Droid repo QR code"/>
     </p>
 
+    If you would like to manually verify the fingerprint (SHA-256) of the repository signing key, here it is:
+        <br>
+        <blockcode style="color:#000000;font-weight:bold;">
+          ED 94 F4 D3 EC 29 78 A2 FC 71 70 A0 7F 25 FD B3 B3 28 04 29 8E 2F F9 FF 00 D9 F6 B7 3C 55 33 66
+        </blockcode>
+
 3. Open the link in F-Droid. It will ask you to add the repository. Everything should already be filled in correctly, so just press "OK".
 4. You can now install my apps, e.g. start by searching for "Notality" in the F-Droid client.
 
