@@ -23,7 +23,6 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
     <p align="center">
       <img src=".github/qrcode.png?raw=true" alt="F-Droid repo QR code"/>
     </p>
-
     If you would like to manually verify the fingerprint (SHA-256) of the repository signing key, here it is:
         <br>
         <blockcode style="color:#000000;font-weight:bold;">
