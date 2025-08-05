@@ -1,5 +1,5 @@
 # fdroid
-This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This allows you to install and update apps very easily.
+This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This allows you to install and update apps very easily..
 
 ### Apps
 
