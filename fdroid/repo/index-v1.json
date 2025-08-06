@@ -1,1 +1,142 @@
-{"repo": {"timestamp": 1754315770000, "version": 20001, "name": "DCS F-Droid Repo (unofficial)", "icon": "icon.png", "address": "https://raw.githubusercontent.com/DaneChainS/fdroid/main/fdroid/repo", "description": "This is a repository of DCS apps to be used with F-Droid. Applications in this repository are  official binaries built by the original application developers."}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
+{
+  "repo": {
+    "timestamp": 1754471956000,
+    "version": 20002,
+    "name": "DCS F-Droid Repo (unofficial)",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/DaneChainS/fdroid/main/fdroid/repo",
+    "description": "This is a repository of DCS apps to be used with F-Droid. Applications in this repository are  official binaries built by the original application developers."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "DaneChainS",
+      "categories": [
+        "Password & 2FA",
+        "Security",
+        "System"
+      ],
+      "suggestedVersionName": "0.9.0.1F-weaotp",
+      "suggestedVersionCode": "58",
+      "description": "2FA App based on the andOTP extended with functionality to sync to a wearOS smart watch without using proprietary google protocol or play services. Sync will be done encrypted locally via a customized direct bluetooth connection.\n\n<b>Features</b>\n\n- Create 2FA codes for all accounts\n- Sync the accounts with your wearOS smart watch\n- Import/Export your 2FA encrypted backups\n- tbd\n",
+      "license": "MIT",
+      "name": "(W)andOTP",
+      "sourceCode": "https://github.com/DaneChainS/andOTP",
+      "summary": "Open source two-factor authentication for Android",
+      "added": 1754471948000,
+      "packageName": "com.andotp.weaotp",
+      "lastUpdated": 1754471948000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "10.png",
+            "11.png",
+            "12.png",
+            "13.png",
+            "14.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png"
+          ],
+          "whatsNew": "Updated SDK 35 target and libraries"
+        }
+      }
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "categories",
+      "added": 1754471948000,
+      "packageName": "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da",
+      "lastUpdated": 1754471948000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "icon",
+      "added": 1754471948000,
+      "packageName": "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b",
+      "lastUpdated": 1754471948000
+    }
+  ],
+  "packages": {
+    "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da": [
+      {
+        "added": 1754471948000,
+        "apkName": "categories.txt",
+        "hash": "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da",
+        "hashType": "sha256",
+        "packageName": "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da",
+        "size": 8,
+        "versionName": "60d42cc"
+      }
+    ],
+    "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b": [
+      {
+        "added": 1754471948000,
+        "apkName": "icon.png",
+        "hash": "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b",
+        "hashType": "sha256",
+        "packageName": "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b",
+        "size": 21848,
+        "versionName": "964a348"
+      }
+    ],
+    "com.andotp.weaotp": [
+      {
+        "added": 1754471948000,
+        "apkName": "andOTP_v0.9.0.1F-weaotp.apk",
+        "features": [
+          "android.hardware.touchscreen"
+        ],
+        "hash": "55b0fb3970abbcdd3d9372be4d3bf8a50c9a7633ccf233e95b262c1d9666edde",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "packageName": "com.andotp.weaotp",
+        "sig": "9d3083daec009809d08c1e703820eef3",
+        "signer": "15035b59d4988338d81c26c05620196dba0d2adcef38818b41b505f409e1f19f",
+        "size": 10133195,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "com.andotp.weaotp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ]
+        ],
+        "versionCode": 58,
+        "versionName": "0.9.0.1F-weaotp"
+      }
+    ]
+  }
+}
