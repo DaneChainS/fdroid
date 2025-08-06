@@ -7,6 +7,8 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
 | <a href="https://github.com/DaneChainS/andOTP"><img src="fdroid/repo/icons/" alt="(W)andOTP icon" width="36px" height="36px"></a> | [**(W)andOTP**](https://github.com/DaneChainS/andOTP) | Open source two-factor authentication for Android | 0.9.0.1F-weaotp (58) |
+| <a href=""><img src="fdroid/repo/icons/" alt="categories icon" width="36px" height="36px"></a> | [**categories**]() |  |  (2147483647) |
+| <a href=""><img src="fdroid/repo/icons/" alt="icon icon" width="36px" height="36px"></a> | [**icon**]() |  |  (2147483647) |
 <!-- end apps table -->
 
 ### How to use
