@@ -4,6 +4,14 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 ### Apps
 
 
+### Apps
+
+<!-- This table is auto-generated. Do not edit -->
+| Icon | Name | Description | Version |
+| --- | --- | --- | --- |
+| <a href="https://github.com/DaneChainS/andOTP"><img src="fdroid/repo/icons/" alt="(W)andOTP icon" width="36px" height="36px"></a> | [**(W)andOTP**](https://github.com/DaneChainS/andOTP) | Open source two-factor authentication for Android | 0.9.0.1F-weaotp (58) |
+<!-- end apps table -->
+
 ### How to use
 1. At first, you should [install the F-Droid app](https://f-droid.org/), it's an alternative app store for Android.
 2. Now you can copy the following [link](https://raw.githubusercontent.com/DaneChainS/fdroid/main/fdroid/repo?fingerprint=ED94F4D3EC2978A2FC7170A07F25FDB3B32804298E2FF9FF00D9F), then add this repository to your F-Droid client:
