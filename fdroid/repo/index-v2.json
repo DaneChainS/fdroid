@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/DaneChainS/fdroid/main/fdroid/repo",
-    "timestamp": 1754475354000,
+    "timestamp": 1754478358000,
     "categories": {
       "Password & 2FA": {
         "name": {
@@ -39,7 +39,7 @@
     }
   },
   "packages": {
-    "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da": {
+    "80fe999643163127949ea2599849a174092d1a0b3a264b2e21e7c2767327a1de": {
       "metadata": {
         "added": 1754471948000,
         "categories": [
@@ -51,41 +51,15 @@
         }
       },
       "versions": {
-        "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da": {
+        "80fe999643163127949ea2599849a174092d1a0b3a264b2e21e7c2767327a1de": {
           "added": 1754471948000,
           "file": {
             "name": "/categories.txt",
-            "sha256": "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da",
-            "size": 8
+            "sha256": "80fe999643163127949ea2599849a174092d1a0b3a264b2e21e7c2767327a1de",
+            "size": 18
           },
           "manifest": {
-            "versionName": "60d42cc",
-            "versionCode": 0
-          }
-        }
-      }
-    },
-    "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b": {
-      "metadata": {
-        "added": 1754471948000,
-        "categories": [
-          "fdroid"
-        ],
-        "lastUpdated": 1754471948000,
-        "name": {
-          "en-US": "icon"
-        }
-      },
-      "versions": {
-        "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b": {
-          "added": 1754471948000,
-          "file": {
-            "name": "/icon.png",
-            "sha256": "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b",
-            "size": 21848
-          },
-          "manifest": {
-            "versionName": "964a348",
+            "versionName": "80fe999",
             "versionCode": 0
           }
         }

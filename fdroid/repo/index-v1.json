@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1754475354000,
+    "timestamp": 1754478358000,
     "version": 20002,
     "name": "DCS F-Droid Repo (unofficial)",
     "icon": "icon.png",
@@ -59,42 +59,20 @@
       "license": "Unknown",
       "name": "categories",
       "added": 1754471948000,
-      "packageName": "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da",
-      "lastUpdated": 1754471948000
-    },
-    {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "icon",
-      "added": 1754471948000,
-      "packageName": "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b",
+      "packageName": "80fe999643163127949ea2599849a174092d1a0b3a264b2e21e7c2767327a1de",
       "lastUpdated": 1754471948000
     }
   ],
   "packages": {
-    "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da": [
+    "80fe999643163127949ea2599849a174092d1a0b3a264b2e21e7c2767327a1de": [
       {
         "added": 1754471948000,
         "apkName": "categories.txt",
-        "hash": "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da",
+        "hash": "80fe999643163127949ea2599849a174092d1a0b3a264b2e21e7c2767327a1de",
         "hashType": "sha256",
-        "packageName": "60d42ccbf23d9d9008122eb73e8736eb041b3d39c75dc9a42a7ed774d3f2a2da",
-        "size": 8,
-        "versionName": "60d42cc"
-      }
-    ],
-    "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b": [
-      {
-        "added": 1754471948000,
-        "apkName": "icon.png",
-        "hash": "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b",
-        "hashType": "sha256",
-        "packageName": "964a348783afe162c0764b1719ab4c5bc9e8892a01db7d23d76db5baedf26c9b",
-        "size": 21848,
-        "versionName": "964a348"
+        "packageName": "80fe999643163127949ea2599849a174092d1a0b3a264b2e21e7c2767327a1de",
+        "size": 18,
+        "versionName": "80fe999"
       }
     ],
     "com.andotp.weaotp": [
