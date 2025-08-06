@@ -1,1 +1,0 @@
-Updated SDK 35 target and libraries
