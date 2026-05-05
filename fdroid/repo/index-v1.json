@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1777873973000,
+    "timestamp": 1777959148000,
     "version": 20002,
     "name": "DCS F-Droid Repo (unofficial)",
     "icon": "icon.png",
@@ -26,9 +26,9 @@
       "name": "(W)andOTP",
       "sourceCode": "https://github.com/DaneChainS/andOTP",
       "summary": "Open source two-factor authentication for Android",
-      "added": 1754482607000,
+      "added": 1777959141000,
       "packageName": "com.andotp.weaotp",
-      "lastUpdated": 1754482607000,
+      "lastUpdated": 1777959141000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -50,34 +50,12 @@
           "whatsNew": "Updated SDK 35 target and libraries"
         }
       }
-    },
-    {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "categories",
-      "added": 1754482607000,
-      "packageName": "9caf31f489b032d23dc1ae10b564944cf992988c33ffb912dcb263da2d267e69",
-      "lastUpdated": 1754482607000
     }
   ],
   "packages": {
-    "9caf31f489b032d23dc1ae10b564944cf992988c33ffb912dcb263da2d267e69": [
-      {
-        "added": 1754482607000,
-        "apkName": "categories.txt",
-        "hash": "9caf31f489b032d23dc1ae10b564944cf992988c33ffb912dcb263da2d267e69",
-        "hashType": "sha256",
-        "packageName": "9caf31f489b032d23dc1ae10b564944cf992988c33ffb912dcb263da2d267e69",
-        "size": 7,
-        "versionName": "9caf31f"
-      }
-    ],
     "com.andotp.weaotp": [
       {
-        "added": 1754482607000,
+        "added": 1777959141000,
         "apkName": "andOTP_v0.9.0.1F-weaotp.apk",
         "features": [
           "android.hardware.touchscreen"

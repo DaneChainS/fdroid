@@ -14,66 +14,18 @@
       }
     },
     "address": "https://raw.githubusercontent.com/DaneChainS/fdroid/main/fdroid/repo",
-    "timestamp": 1777873973000,
-    "categories": {
-      "Password & 2FA": {
-        "name": {
-          "en-US": "Password & 2FA"
-        }
-      },
-      "Security": {
-        "name": {
-          "en-US": "Security"
-        }
-      },
-      "System": {
-        "name": {
-          "en-US": "System"
-        }
-      },
-      "fdroid": {
-        "name": {
-          "en-US": "fdroid"
-        }
-      }
-    }
+    "timestamp": 1777959148000
   },
   "packages": {
-    "9caf31f489b032d23dc1ae10b564944cf992988c33ffb912dcb263da2d267e69": {
-      "metadata": {
-        "added": 1754482607000,
-        "categories": [
-          "fdroid"
-        ],
-        "lastUpdated": 1754482607000,
-        "name": {
-          "en-US": "categories"
-        }
-      },
-      "versions": {
-        "9caf31f489b032d23dc1ae10b564944cf992988c33ffb912dcb263da2d267e69": {
-          "added": 1754482607000,
-          "file": {
-            "name": "/categories.txt",
-            "sha256": "9caf31f489b032d23dc1ae10b564944cf992988c33ffb912dcb263da2d267e69",
-            "size": 7
-          },
-          "manifest": {
-            "versionName": "9caf31f",
-            "versionCode": 0
-          }
-        }
-      }
-    },
     "com.andotp.weaotp": {
       "metadata": {
-        "added": 1754482607000,
+        "added": 1777959141000,
         "categories": [
           "Password & 2FA",
           "Security",
           "System"
         ],
-        "lastUpdated": 1754482607000,
+        "lastUpdated": 1777959141000,
         "license": "MIT",
         "sourceCode": "https://github.com/DaneChainS/andOTP",
         "screenshots": {
@@ -166,7 +118,7 @@
       },
       "versions": {
         "55b0fb3970abbcdd3d9372be4d3bf8a50c9a7633ccf233e95b262c1d9666edde": {
-          "added": 1754482607000,
+          "added": 1777959141000,
           "file": {
             "name": "/andOTP_v0.9.0.1F-weaotp.apk",
             "sha256": "55b0fb3970abbcdd3d9372be4d3bf8a50c9a7633ccf233e95b262c1d9666edde",
