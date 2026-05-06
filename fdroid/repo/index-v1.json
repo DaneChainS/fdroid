@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1777959148000,
+    "timestamp": 1778046397000,
     "version": 20002,
     "name": "DCS F-Droid Repo (unofficial)",
     "icon": "icon.png",
@@ -50,9 +50,31 @@
           "whatsNew": "Updated SDK 35 target and libraries"
         }
       }
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "categories",
+      "added": 1778046389000,
+      "packageName": "5bc7f57dea45a63940f91a5125fb9b23f30f78ca169bb5ea033eb387b44ac445",
+      "lastUpdated": 1778046389000
     }
   ],
   "packages": {
+    "5bc7f57dea45a63940f91a5125fb9b23f30f78ca169bb5ea033eb387b44ac445": [
+      {
+        "added": 1778046389000,
+        "apkName": "categories.txt",
+        "hash": "5bc7f57dea45a63940f91a5125fb9b23f30f78ca169bb5ea033eb387b44ac445",
+        "hashType": "sha256",
+        "packageName": "5bc7f57dea45a63940f91a5125fb9b23f30f78ca169bb5ea033eb387b44ac445",
+        "size": 38,
+        "versionName": "5bc7f57"
+      }
+    ],
     "com.andotp.weaotp": [
       {
         "added": 1777959141000,
